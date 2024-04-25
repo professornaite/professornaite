@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- I am an assistant professor of data science and education at [Howard Univeristy](URL "https://howard.edu/" target="_blank").
+- I am an assistant professor of data science and education at [Howard Univeristy](https://howard.edu/).
   
 - My research lab, the Quantitative Histories Workshop, is an educational curriculum and software development collective.
   
