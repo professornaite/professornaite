@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 - I am an assistant professor of data science and education at [Howard Univeristy](https://howard.edu/).
   
@@ -6,7 +6,7 @@
   
 - I am also the Assistant Graduate Director of the [HU MS in Applied Data Science and Analytics](https://provost.howard.edu/datascience).
   
-- Broadly, my [research](https://profiles.howard.edu/nathan-alexander) considers the intersections of critical theory and computation.
+- Broadly, my [research](https://profiles.howard.edu/nathan-alexander) considers the intersections of critical theory, political education, and computation.
   
 - You can find me online at [@professornaite](https://twitter.com/professornaite).
   
