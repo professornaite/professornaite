@@ -6,7 +6,7 @@
   
 - I am also the Assistant Graduate Director of the [HU MS in Applied Data Science and Analytics](https://provost.howard.edu/datascience).
   
-- Broadly, my [research](https://profiles.howard.edu/nathan-alexander) considers the intersections of critical theory, political education, and computation.
+- My [research](https://profiles.howard.edu/nathan-alexander) considers intersections of quantification, political theory & education, and computation.
   
 - You can find me online at [@professornaite](https://twitter.com/professornaite).
   
