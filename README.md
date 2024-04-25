@@ -1,14 +1,14 @@
 ### Hello there 👋
 
-- I am an assistant professor of data science and education at [Howard Univeristy](https://howard.edu/){target="_blank"}.
+- I am an assistant professor of data science and education at [Howard Univeristy](URL "https://howard.edu/" target="_blank").
   
 - My research lab, the Quantitative Histories Workshop, is an educational curriculum and software development collective.
   
-- I am also the Assistant Graduate Director of the [HU MS in Applied Data Science and Analytics](https://provost.howard.edu/datascience){target="_blank"}.
+- I am also the Assistant Graduate Director of the [HU MS in Applied Data Science and Analytics](https://provost.howard.edu/datascience).
   
-- My [research](https://profiles.howard.edu/nathan-alexander){target="_blank"} considers the intersections of quantification, political theory & education, and computation.
+- My [research](https://profiles.howard.edu/nathan-alexander) considers the intersections of quantification, political theory & education, and computation.
   
-- You can find me online at [@professornaite](https://twitter.com/professornaite){target="_blank"}.
+- You can find me online at [@professornaite](https://twitter.com/professornaite).
   
 <!--
 **professornaite/professornaite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
