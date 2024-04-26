@@ -4,7 +4,7 @@
 
 - I am also the Assistant Graduate Director of the [MS in Applied Data Science and Analytics](https://provost.howard.edu/datascience) program.
   
-- I direct the Quantitative Histories Workshop - a curriculum and software development collective.
+- I run the Quantitative Histories Workshop - a curriculum and software development collective.
     
 - My [work](https://profiles.howard.edu/nathan-alexander) considers intersections between theory, quantification, political education, and computation.
   
