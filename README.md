@@ -2,9 +2,9 @@
 
 - I am an assistant professor of data science and education at [Howard Univeristy](https://howard.edu/).
 
-- I am also the Assistant Graduate Director of the [HU MS in Applied Data Science and Analytics](https://provost.howard.edu/datascience).
+- I am also the Assistant Graduate Director of the [MS in Applied Data Science and Analytics](https://provost.howard.edu/datascience) program.
   
-- My research lab, the Quantitative Histories Workshop, is an educational curriculum and software development collective.
+- I direct the Quantitative Histories Workshop - an curriculum and software development collective.
     
 - My [research](https://profiles.howard.edu/nathan-alexander) considers the intersections of quantification, political theory & education, and computation.
   
