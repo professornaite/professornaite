@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello there ✨
 
 - I am an assistant professor of data science and education at [Howard Univeristy](https://howard.edu/).
 
