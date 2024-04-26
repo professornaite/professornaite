@@ -6,7 +6,7 @@
   
 - I direct the Quantitative Histories Workshop - a curriculum and software development collective.
     
-- My [research](https://profiles.howard.edu/nathan-alexander) considers the intersections between theory, quantification, political education, and computation.
+- My [work](https://profiles.howard.edu/nathan-alexander) considers intersections between theory, quantification, political education, and computation.
   
 - You can find me online at [@professornaite](https://twitter.com/professornaite).
 <!--
