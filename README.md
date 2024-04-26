@@ -12,11 +12,11 @@
 
 Github Stats:
 ----------------------------------
-[![Github stats](https://github-readme-stats.vercel.app/api?username=professornaite&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/professornaite/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=professornaite&show_icons=true&theme=light#gh-light-mode-only)](https://github.com/professornaite/github-readme-stats)
 
 Top Programming Languages:
 ----------------------------------
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=professornaite&hide_progress=true&show_icons=true&theme=light#gh-dark-mode-only)](https://github.com/professornaite/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=professornaite&hide_progress=true&show_icons=true&theme=light#gh-light-mode-only)](https://github.com/professornaite/github-readme-stats)
 
 Github Streak:
 ----------------------------------
