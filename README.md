@@ -9,7 +9,7 @@
 - My [research](https://profiles.howard.edu/nathan-alexander) considers the intersections between theory, quantification, political education, and computation.
   
 - You can find me online at [@professornaite](https://twitter.com/professornaite).
-
+<!--
 Github Stats:
 ----------------------------------
 [![Github stats](https://github-readme-stats.vercel.app/api?username=professornaite&show_icons=true&theme=light#gh-light-mode-only)](https://github.com/professornaite/github-readme-stats)
@@ -23,7 +23,7 @@ Github Streak:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=professornaite&theme=light)](https://git.io/streak-stats)
 
 
-<!--
+
 **professornaite/professornaite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
