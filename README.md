@@ -1,6 +1,6 @@
 ### Hello there ✨
 
-- I am an assistant professor of data science and education at [Howard Univeristy](https://howard.edu/).
+- I am an assistant professor of data science and education at [Howard University](https://howard.edu/).
 
 - I am also the Assistant Graduate Director of the [MS in Applied Data Science and Analytics](https://provost.howard.edu/datascience) program.
   
