@@ -2,7 +2,7 @@
 
 - I am an assistant professor of education at [Howard University](https://howard.edu/).
 
-- I am faculty in the [Applied Data Science and Analytics](https://provost.howard.edu/datascience) program @Howard.
+- I am also faculty in the [Applied Data Science and Analytics](https://provost.howard.edu/datascience) program @Howard.
   
 - I manage the Quantitative Histories Workshop - a curriculum and software development collective.
     
